@@ -1,0 +1,5 @@
+build:
+  docker:
+    api: dockerfile
+run:
+  api: yourname/api
